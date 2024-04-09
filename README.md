@@ -1,6 +1,6 @@
 # CCATK-V1
 
-使用socks4 / 5代理攻击http服务器的脚本。
+使用socks4 / 5代理攻击http服务器的脚本。CC
 
 删除了混合代理洪水
 
